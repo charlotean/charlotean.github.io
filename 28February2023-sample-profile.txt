@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset"utf-8">
+        <meta name="viewport" content="width=device-width"
+        <title>Charlote Anog</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body>
+        <h1>Hello I am Charlote Anog.</h1>
+        <h2>This would be my sample dev profile.</h2>
+    </body>
+</html>
